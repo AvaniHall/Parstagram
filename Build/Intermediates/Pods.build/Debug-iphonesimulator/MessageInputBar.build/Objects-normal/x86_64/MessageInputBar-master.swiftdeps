@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "2e228f0fff05636f7da6cb20a25fa11e"
+build_time: [1616816601, 879233000]
+inputs:
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Controls/InputBarButtonItem.swift": [1616803759, 723857816]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Protocols/InputItem.swift": [1616803759, 725207926]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Protocols/InputPlugin.swift": [1616803759, 724879937]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Views/InputStackView.swift": [1616803759, 724198902]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Views/InputTextView.swift": [1616803759, 724386004]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/MessageInputBar.swift": [1616803759, 722606115]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Protocols/MessageInputBarDelegate.swift": [1616803759, 725043740]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Models/NSConstraintLayoutSet.swift": [1616803759, 722995955]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Extensions/NSMutableAttributedString+Extensions.swift": [1616803759, 723515127]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Views/SeparatorLine.swift": [1616803759, 724557339]
+  "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/MessageInputBar/Sources/Extensions/UIView+Extensions.swift": [1616803759, 723339089]

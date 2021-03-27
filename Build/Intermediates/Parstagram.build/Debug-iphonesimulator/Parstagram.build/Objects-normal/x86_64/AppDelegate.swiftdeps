@@ -8,6 +8,7 @@ provides-member:
 provides-dynamic-lookup:
 - "$main"
 - "application"
+- "window"
 depends-top-level:
 - "AppDelegate"
 - !private "AssignmentPrecedence"
@@ -23,6 +24,7 @@ depends-top-level:
 - "UIScene"
 - "UISceneConfiguration"
 - "UISceneSession"
+- "UIWindow"
 depends-member:
 - ["10Parstagram11AppDelegateC", "Bool"]
 - !private ["10Parstagram11AppDelegateC", "Parse"]
@@ -32,6 +34,7 @@ depends-member:
 - ["10Parstagram11AppDelegateC", "UIScene"]
 - ["10Parstagram11AppDelegateC", "UISceneConfiguration"]
 - ["10Parstagram11AppDelegateC", "UISceneSession"]
+- ["10Parstagram11AppDelegateC", "UIWindow"]
 - ["10Parstagram11AppDelegateC", ""]
 - ["10Parstagram11AppDelegateC", "application"]
 - ["10Parstagram11AppDelegateC", "applicationDidBecomeActive"]
@@ -191,6 +194,7 @@ depends-member:
 - ["So8NSObjectC", "UIScene"]
 - ["So8NSObjectC", "UISceneConfiguration"]
 - ["So8NSObjectC", "UISceneSession"]
+- ["So8NSObjectC", "UIWindow"]
 - ["So8NSObjectC", ""]
 - ["So8NSObjectC", "application"]
 - ["So8NSObjectC", "applicationDidBecomeActive"]
@@ -223,6 +227,7 @@ depends-member:
 - ["So8NSObjectP", "UIScene"]
 - ["So8NSObjectP", "UISceneConfiguration"]
 - ["So8NSObjectP", "UISceneSession"]
+- ["So8NSObjectP", "UIWindow"]
 - ["So8NSObjectP", ""]
 - ["So8NSObjectP", "application"]
 - ["So8NSObjectP", "applicationDidBecomeActive"]
@@ -292,6 +297,7 @@ depends-member:
 - ["So30UIPasteConfigurationSupportingP", "UIScene"]
 - ["So30UIPasteConfigurationSupportingP", "UISceneConfiguration"]
 - ["So30UIPasteConfigurationSupportingP", "UISceneSession"]
+- ["So30UIPasteConfigurationSupportingP", "UIWindow"]
 - ["So30UIPasteConfigurationSupportingP", ""]
 - ["So30UIPasteConfigurationSupportingP", "application"]
 - ["So30UIPasteConfigurationSupportingP", "applicationDidBecomeActive"]
@@ -319,6 +325,7 @@ depends-member:
 - ["So11UIResponderC", "UIScene"]
 - ["So11UIResponderC", "UISceneConfiguration"]
 - ["So11UIResponderC", "UISceneSession"]
+- ["So11UIResponderC", "UIWindow"]
 - ["So11UIResponderC", ""]
 - ["So11UIResponderC", "application"]
 - ["So11UIResponderC", "applicationDidBecomeActive"]
@@ -346,6 +353,7 @@ depends-member:
 - ["So30UIResponderStandardEditActionsP", "UIScene"]
 - ["So30UIResponderStandardEditActionsP", "UISceneConfiguration"]
 - ["So30UIResponderStandardEditActionsP", "UISceneSession"]
+- ["So30UIResponderStandardEditActionsP", "UIWindow"]
 - ["So30UIResponderStandardEditActionsP", ""]
 - ["So30UIResponderStandardEditActionsP", "application"]
 - ["So30UIResponderStandardEditActionsP", "applicationDidBecomeActive"]
@@ -377,6 +385,7 @@ depends-member:
 - ["So23UIUserActivityRestoringP", "UIScene"]
 - ["So23UIUserActivityRestoringP", "UISceneConfiguration"]
 - ["So23UIUserActivityRestoringP", "UISceneSession"]
+- ["So23UIUserActivityRestoringP", "UIWindow"]
 - ["So23UIUserActivityRestoringP", ""]
 - ["So23UIUserActivityRestoringP", "application"]
 - ["So23UIUserActivityRestoringP", "applicationDidBecomeActive"]
@@ -504,6 +513,7 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Modules/MessageInputBar.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
@@ -512,6 +522,7 @@ depends-external:
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/Parse-umbrella.h"
+- "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Headers/MessageInputBar-umbrella.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-umbrella.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFGeneric.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud+Deprecated.h"
@@ -562,6 +573,7 @@ depends-external:
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFProduct.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Headers/MessageInputBar-Swift.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileUploadResult.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFGeoPoint.h"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery.h"
@@ -569,6 +581,7 @@ depends-external:
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Modules/module.modulemap"
+- "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Modules/module.modulemap"
 - "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/usr/include/objc/ObjectiveC.apinotes"
@@ -586,4 +599,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/StoreKit.framework/Headers/StoreKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "b90cd626244671d20aa1de8075005798"
+interface-hash: "7feac0b413a9e227e7c5ab3c27051bcb"

@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
 options: "e9b4ed6711939f45357f77ee94bafe74"
-build_time: [1616216439, 713952000]
+build_time: [1616816614, 763776000]
 inputs:
   "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/AlamofireImage/Source/AFIError.swift": [1616196147, 60232108]
   "/Users/bugsbunny/Desktop/Programming/Swift/Codepath/Parstagram/Pods/AlamofireImage/Source/Image.swift": [1616196147, 60732200]
